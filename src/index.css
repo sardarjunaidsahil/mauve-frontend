@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Khula:wght@600&display=swap');
+
+@import "tailwindcss";
+
+* {
+  font-family: 'Khula', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Khula', sans-serif;
+}
+
+nav,
+nav * {
+  font-family: 'Khula', sans-serif !important;
+}
